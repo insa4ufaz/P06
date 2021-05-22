@@ -13,7 +13,9 @@ Setup will spin of next services:
 - http://localhost:5002 -- Blockchain
 - http://localhost:5003 -- Blockchain
 
+You can interact with each node with it's url
+
 Stop all containers: `docker ps -aq | xargs docker stop`
 
 
-This repo is not fully developed, if you have some questions contact with us.
+Note: This repo is not fully developed, if you have some questions contact with us.
